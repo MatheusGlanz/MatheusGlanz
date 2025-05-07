@@ -27,4 +27,6 @@
  <a href="https://discord.com/matheusglanz7684" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "glanzmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fernandes-2b58372b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "https://web.dio.me/users/glanzmatheus?tab=achievements"><img src="https://img.shields.io/badge/-DIO-%23333?style=for-the-badge&logo=DIOl&logoColor=white" target="_blank"></a>
+ 
 </div>
