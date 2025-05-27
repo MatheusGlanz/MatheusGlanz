@@ -18,6 +18,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg">
  <img aling="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain-wordmark.svg">
+  <img aling="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
 </div>
  
 <br>
