@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil Matheus Glanz 😁
+** Bem-vindo(a) ao meu  perfil Matheus Glanz 😁
+Desenvolvedor Full-stack, estudante de análise e desenvolvimentos de sistemas com foco em desenvolvimento de sistemas escalável e sistemas web. Tenho experiência prática em projetos acadêmicos e pessoais utilizando JavaScript, React, Nodejs, HTML5, CSS, PHP, SQL e MySQL, PostegreSQL além de conhecimentos em banco de dados e APIs.Busco constantemente aprender novas tecnologias e ampliar minha atuação em Full Stack Development, explorando também soluções em AWS e integração de sistemas. Meu objetivo é  aplicando boas práticas de programação, colaboração em equipe e vontade de crescer na área de TI.
 
  <div>
    <a href="https://github.com/matheusglanz">
